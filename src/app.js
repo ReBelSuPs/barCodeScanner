@@ -21,8 +21,8 @@
 // SOFTWARE.
 
 import {AppLib} from './app-core/lib';
-import './mycss.css';
-import './mycss2.css';
+import './style.css';
+
 
 let appLib = new AppLib();
 
